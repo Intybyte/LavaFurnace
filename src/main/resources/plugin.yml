@@ -1,0 +1,4 @@
+name: lavaFurnace
+version: '${project.version}'
+main: me.vaan.lavafurnace.LavaFurnace
+api-version: '1.20'

@@ -1,0 +1,10 @@
+recipe:
+  # Don't change key if there are no errors
+  key: "lava_furnace"
+  # [Top, Middle, Bottom]
+  craft: ["aba", "cxc", "ccc"]
+  materialReplace:
+    - ["a", COPPER_BLOCK]
+    - ["b", BUCKET]
+    - ["c", BLACKSTONE]
+    - ["x", FURNACE]
